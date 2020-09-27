@@ -1,0 +1,37 @@
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    height: 400px;
+    background-image: url("../images/coffee-bgnd.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Covered By Your Grace', cursive;
+    color: rgba(3, 150, 100, 0.75);
+    padding-top: 130px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 28px;
+    background-color: #aa8eb5;
+}
+
+p {
+    color: #234;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px;
+    text-indent: 32px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+
